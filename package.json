@@ -1,0 +1,17 @@
+{
+	"version": "1.0.0",
+	"scripts": {},
+	"dependencies": {},
+	"devDependencies": {
+		"gulp": "^3.9.0",
+		"gulp-batch": "^1.0.5",
+		"gulp-debug": "^2.0.1",
+		"gulp-load-plugins": "^0.10.0",
+		"gulp-sourcemaps": "^1.5.2",
+		"gulp-typescript": "^2.7.6",
+		"gulp-util": "^3.0.6",
+		"gulp-watch": "^4.2.4",
+		"typescript": "1.X",
+		"stream-combiner": "^0.2.2"
+	}
+}
